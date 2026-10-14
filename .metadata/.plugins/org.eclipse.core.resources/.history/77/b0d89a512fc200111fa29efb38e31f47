@@ -1,0 +1,5 @@
+package mpsedc.login.entity;
+
+public class User {
+
+}

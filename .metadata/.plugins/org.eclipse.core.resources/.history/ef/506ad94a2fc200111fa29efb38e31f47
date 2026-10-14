@@ -1,0 +1,7 @@
+package mpsedc.login.controller;
+
+@Controller
+@RequestMapping("/login")
+public class LoginController {
+
+}
